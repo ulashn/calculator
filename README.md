@@ -2,6 +2,10 @@
 
 This is a simple calculator app for newcomers to Vue.js :)
 
+# TO-DO's
+
+Operators will be added.
+
 ## Project setup
 ```
 npm install
