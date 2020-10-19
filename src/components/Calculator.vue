@@ -27,7 +27,7 @@
 export default {
   data() {
     return {
-      current: "100",
+      current: "0",
       operator: null,
     };
   },
